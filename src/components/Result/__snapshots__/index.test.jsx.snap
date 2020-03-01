@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Result should render correctly 1`] = `
+<ForwardRef(Styled(BpkCard))>
+  <Leg
+    leg={
+      Object {
+        "airline_id": "WZ",
+        "airline_name": "Wizz Air",
+        "arrival_airport": "LTN",
+        "arrival_time": "2020-10-31T17:00",
+        "departure_airport": "BUD",
+        "departure_time": "2020-10-31T15:35",
+        "duration_mins": 145,
+        "id": "leg_1",
+        "stops": 0,
+      }
+    }
+  />
+  <ResultFooter
+    agent="Wizzair.com"
+    price="£35"
+  />
+</ForwardRef(Styled(BpkCard))>
+`;

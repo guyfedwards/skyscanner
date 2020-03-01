@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stops should render correctly 1`] = `
+<ForwardRef(styled.span)
+  direct={false}
+>
+  1 stop 
+</ForwardRef(styled.span)>
+`;

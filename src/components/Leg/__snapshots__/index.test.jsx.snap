@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Leg should render correctly 1`] = `
+<ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    <ForwardRef(Styled(BpkImage))
+      altText="Wizz Air"
+      height={32}
+      src="https://logos.skyscnr.com/images/airlines/favicon/WZ.png"
+      width={32}
+    />
+    <ForwardRef(styled.div)>
+      <LegTime
+        airport="BUD"
+        time="2020-10-31T15:35"
+      />
+      <ForwardRef(styled.div)>
+        <ForwardRef(Styled(_default)) />
+      </ForwardRef(styled.div)>
+      <LegTime
+        airport="BUD"
+        time="2020-10-31T15:35"
+      />
+    </ForwardRef(styled.div)>
+  </ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    <ForwardRef(Styled(BpkText))>
+      2
+      h 
+      25
+    </ForwardRef(Styled(BpkText))>
+    <Stops
+      stops={0}
+    />
+  </ForwardRef(styled.div)>
+</ForwardRef(styled.div)>
+`;

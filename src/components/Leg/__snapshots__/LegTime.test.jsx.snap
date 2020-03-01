@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LegTime should render correctly 1`] = `
+<ForwardRef(styled.div)>
+  <BpkText
+    bold={false}
+    className={null}
+    tagName="span"
+    textStyle="lg"
+  >
+    05:00 PM
+  </BpkText>
+  <ForwardRef(Styled(BpkText))
+    textStyle="lg"
+  >
+    LTN
+  </ForwardRef(Styled(BpkText))>
+</ForwardRef(styled.div)>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultFooter should render correctly 1`] = `
+<ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    <BpkText
+      bold={false}
+      className={null}
+      tagName="span"
+      textStyle="xxl"
+    >
+      £35
+    </BpkText>
+    <ForwardRef(Styled(BpkText))
+      textStyle="lg"
+    >
+      CheapFlights
+    </ForwardRef(Styled(BpkText))>
+  </ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    <BpkButton
+      blank={false}
+      className={null}
+      destructive={false}
+      disabled={false}
+      featured={false}
+      href={null}
+      iconOnly={false}
+      large={true}
+      link={false}
+      onClick={null}
+      outline={false}
+      rel={null}
+      secondary={false}
+      submit={false}
+    >
+      Select
+    </BpkButton>
+  </ForwardRef(styled.div)>
+</ForwardRef(styled.div)>
+`;
